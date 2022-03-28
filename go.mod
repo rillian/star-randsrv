@@ -3,7 +3,7 @@ module github.com/brave-experiments/star-randsrv
 go 1.17
 
 require (
-	github.com/brave-experiments/nitro-enclave-utils v0.4.0
+	github.com/brave-experiments/nitro-enclave-utils v0.4.1
 	github.com/bwesterb/go-ristretto v1.2.1
 )
 

@@ -1,5 +1,7 @@
 github.com/brave-experiments/nitro-enclave-utils v0.4.0 h1:+QrUO7fznD7uH5PgeA9wvSS6ZGQjH47tye7MoIM2vyw=
 github.com/brave-experiments/nitro-enclave-utils v0.4.0/go.mod h1:L0ZhizeJwpq5V2/kihjY2hduNyhDozpuZzB6iOzYwpI=
+github.com/brave-experiments/nitro-enclave-utils v0.4.1 h1:frUjC78mmDnBtoM4/cghepQlWzsE6pX5AvR7FhaJCt0=
+github.com/brave-experiments/nitro-enclave-utils v0.4.1/go.mod h1:L0ZhizeJwpq5V2/kihjY2hduNyhDozpuZzB6iOzYwpI=
 github.com/brave-experiments/viproxy v0.1.0 h1:Lxrzd3jbhE+m5sNImVjGPNp3U/f7o5S0Rq7UsBz/ons=
 github.com/brave-experiments/viproxy v0.1.0/go.mod h1:CrBnXWQMvk+MvCyOoUMBGD68l9tTCWjLpyc3ccoPf+8=
 github.com/bwesterb/go-ristretto v1.2.1 h1:Xd9ZXmjKE2aY8Ub7+4bX7tXsIPsV1pIZaUlJUjI1toE=
