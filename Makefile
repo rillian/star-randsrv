@@ -11,6 +11,7 @@ test: $(godeps) $(stardeps)
 	go test -cover ./...
 
 lint:
+	go vet
 	golangci-lint run ./...
 
 image:
