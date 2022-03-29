@@ -1,7 +1,7 @@
 package main
 
 /*
-#cgo LDFLAGS: -L sta-rs/target/release -lffi -lpthread -ldl -static
+#cgo LDFLAGS: -L sta-rs/target/release -lffi -lpthread -ldl
 #cgo CFLAGS: -I sta-rs/ppoprf/ffi/include -O3
 #include "sta-rs/ppoprf/ffi/include/ppoprf.h"
 */
